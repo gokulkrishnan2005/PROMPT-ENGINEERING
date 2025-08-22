@@ -275,3 +275,4 @@ Interpretability: Hard to explain why a model made a decision.
 Regulation & Ethics: Usage in misinformation, plagiarism, or harmful content
 
 # Result
+Thus,the result to obtain comprehensive report on the fundamentals of generative AI and Large Language Models (LLMs) has been successfully executed.
