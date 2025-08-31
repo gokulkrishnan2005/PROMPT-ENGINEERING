@@ -26,14 +26,23 @@ Step 2: Create Report Skeleton/Structure
 2.5 Main Body Sections:
 
 •	Introduction to AI and Machine Learning
+
 •	What is Generative AI?
+
 •	Types of Generative AI Models (e.g., GANs, VAEs, Diffusion Models)
+
 •	Introduction to Large Language Models (LLMs)
+
 •	Architecture of LLMs (e.g., Transformer, GPT, BERT)
+
 •	Training Process and Data Requirements
+
 •	Use Cases and Applications (Chatbots, Content Generation, etc.)
+
 •	Limitations and Ethical Considerations
+
 •	Future Trends
+
 2.6 Conclusion
 
 2.7 References
@@ -47,25 +56,42 @@ Step 3: Research and Data Collection
 3.3 Cite all sources properly
 
 Step 4: Content Development
+
 4.1 Write each section in clear, simple language
+
 4.2 Include diagrams, figures, and charts where needed
+
 4.3 Highlight important terms and definitions
+
 4.4 Use examples and real-world analogies for better understanding
 
+
 Step 5: Visual and Technical Enhancement
+
 5.1 Add tables, comparison charts (e.g., GPT-3 vs GPT-4)
+
 5.2 Use tools like Canva, PowerPoint, or LaTeX for formatting
+
 5.3 Add code snippets or pseudocode for LLM working (optional)
 
+
 Step 6: Review and Edit
+
 6.1 Proofread for grammar, spelling, and clarity
+
 6.2 Ensure logical flow and consistency
+
 6.3 Validate technical accuracy
+
 6.4 Peer-review or use tools like Grammarly or ChatGPT for suggestions
 
+
 Step 7: Finalize and Export
+
 7.1 Format the report professionally
+
 7.2 Export as PDF or desired format
+
 7.3 Prepare a brief presentation if required (optional)
 
 ## 1. Foundational Concepts of Generative AI
