@@ -56,14 +56,8 @@ Step 7: Finalize and Export
 7.2 Export as PDF or desired format
 7.3 Prepare a brief presentation if required (optional)
 
-
-
-## Output
-
-<img width="1001" height="801" alt="image" src="https://github.com/user-attachments/assets/92ec75cf-aaf1-4ccd-9196-6b3ea1124e73" />
-
 ## 1. Foundational Concepts of Generative AI
-1.1 What is Generative AI?
+### 1.1 What is Generative AI?
 
 Generative Artificial Intelligence (Generative AI) refers to a class of AI systems that can create new data resembling human-created outputs. Unlike traditional AI systems, which are largely discriminative (classifying, recognizing, or predicting), generative AI focuses on producing novel content such as text, images, audio, video, or even code.
 
@@ -275,6 +269,10 @@ Data Privacy: Potential leakage of sensitive training data.
 Interpretability: Hard to explain why a model made a decision.
 
 Regulation & Ethics: Usage in misinformation, plagiarism, or harmful content
+## Output
+
+<img width="1001" height="801" alt="image" src="https://github.com/user-attachments/assets/92ec75cf-aaf1-4ccd-9196-6b3ea1124e73" />
+
 
 ## Result
 Thus,the result to obtain comprehensive report on the fundamentals of generative AI and Large Language Models (LLMs) has been successfully executed.
