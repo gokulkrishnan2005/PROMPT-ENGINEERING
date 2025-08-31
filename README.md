@@ -72,7 +72,7 @@ A discriminative model answers: “Is this image a cat or a dog?”
 
 A generative model answers: “Generate a realistic image of a cat wearing glasses.”
 
-# 1.2 Core Idea
+### 1.2 Core Idea
 
 Generative AI works by learning the underlying distribution of data. It doesn’t just memorize examples; instead, it learns the probability space so that it can generate new instances that look like the training data but are not direct copies.
 
