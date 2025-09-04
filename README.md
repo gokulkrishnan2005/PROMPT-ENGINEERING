@@ -222,7 +222,7 @@ Interpretability: Hard to explain why a model made a decision.
 Regulation & Ethics: Usage in misinformation, plagiarism, or harmful content
 ## Architecture
 
-<img width="1001" height="801" alt="image" src="https://github.com/user-attachments/assets/92ec75cf-aaf1-4ccd-9196-6b3ea1124e73" />
+<img width="1024" height="554" alt="FINAL-Blog-graphic-Reference-Architecture-for-GenAI-1024x554" src="https://github.com/user-attachments/assets/e37258d4-d6c1-4ac2-b456-89f8a70afef3" />
 
 
 ## Result
